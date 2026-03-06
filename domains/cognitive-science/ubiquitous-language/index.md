@@ -1,0 +1,25 @@
+# Cognitive Science - Ubiquitous Language
+
+- **Attention**: The cognitive process of selectively concentrating on relevant information while ignoring irrelevant stimuli, governed by both voluntary (top-down) and involuntary (bottom-up) mechanisms.
+- **Chunking**: A memory strategy that organizes individual units of information into larger, meaningful groups to increase the capacity of working memory.
+- **Cognitive Architecture**: A theoretical framework specifying the fixed structures and processes of the mind that underlie all cognitive functioning, such as ACT-R or SOAR.
+- **Cognitive Bias**: A systematic pattern of deviation from rationality in judgment and decision-making, arising from heuristic processing or motivational factors.
+- **Cognitive Load**: The total amount of mental effort required to process information in working memory at a given time, classified as intrinsic, extraneous, or germane.
+- **Connectionism**: A computational approach to cognition that models mental processes using artificial neural networks of interconnected processing units with weighted connections.
+- **Dual-Process Theory**: A framework proposing that cognition operates through two distinct systems: a fast, automatic, intuitive System 1 and a slow, deliberate, analytical System 2.
+- **Embodied Cognition**: The theoretical perspective that cognitive processes are deeply shaped by the body's interactions with the environment, rather than being purely abstract symbol manipulation.
+- **Encoding**: The initial process of transforming sensory input into a mental representation that can be stored in memory.
+- **Episodic Memory**: A long-term memory system that stores autobiographical records of personal experiences and events, including their temporal and spatial context.
+- **Executive Function**: A set of higher-order cognitive processes including planning, working memory updating, inhibitory control, and cognitive flexibility that regulate thought and behavior.
+- **Heuristic**: A mental shortcut or rule of thumb that simplifies decision-making and problem-solving, often effective but sometimes leading to systematic errors.
+- **Mental Model**: An internal representation of an external system or situation that allows a person to reason about, predict, and explain events in the world.
+- **Mental Representation**: An internal cognitive structure that stands for or corresponds to an external object, event, or concept, serving as the basis for thought.
+- **Metacognition**: The awareness and understanding of one's own cognitive processes, including the ability to monitor, evaluate, and regulate one's thinking and learning.
+- **Phonological Loop**: A component of Baddeley's working memory model that temporarily stores and rehearses verbal and acoustic information.
+- **Priming**: The phenomenon whereby exposure to a stimulus influences the processing of a subsequent related stimulus, typically by increasing speed or accuracy of response.
+- **Procedural Memory**: A long-term memory system that stores knowledge of how to perform skills, habits, and motor sequences, operating largely without conscious awareness.
+- **Retrieval**: The process of accessing and bringing stored information from long-term memory into conscious awareness or working memory.
+- **Schema**: An organized mental framework of prior knowledge that structures expectations, guides interpretation of new information, and facilitates comprehension and memory.
+- **Semantic Memory**: A long-term memory system that stores general world knowledge, facts, concepts, and word meanings independent of personal experience.
+- **Visuospatial Sketchpad**: A component of Baddeley's working memory model that temporarily stores and manipulates visual and spatial information.
+- **Working Memory**: A limited-capacity cognitive system that temporarily holds and manipulates information needed for ongoing cognitive tasks such as reasoning, comprehension, and learning.

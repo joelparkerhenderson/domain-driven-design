@@ -1,0 +1,23 @@
+# Allergy - Ubiquitous Language
+
+- **Allergen**: A substance that triggers an immune-mediated hypersensitivity reaction in a sensitized individual, classified by source such as food, drug, environmental, insect venom, or contact.
+- **Allergic Rhinitis**: Inflammation of the nasal mucosa caused by an IgE-mediated response to inhaled allergens, presenting with sneezing, nasal congestion, and rhinorrhea.
+- **Anaphylaxis**: A severe, potentially life-threatening systemic allergic reaction characterized by rapid onset of airway compromise, cardiovascular collapse, or both, requiring immediate administration of epinephrine.
+- **Angioedema**: Deep swelling beneath the skin, often around the eyes, lips, and throat, resulting from an allergic or non-allergic immune response.
+- **Atopy**: A genetic predisposition to develop IgE-mediated allergic responses to common environmental allergens, often manifesting as eczema, asthma, or allergic rhinitis.
+- **Component-Resolved Diagnostics**: A diagnostic approach using purified or recombinant individual allergen molecules to identify precisely which molecular components a patient is sensitized to.
+- **Cross-Reactivity**: The phenomenon where IgE antibodies produced in response to one allergen also recognize structurally similar proteins in a different allergen source.
+- **Desensitization**: A clinical procedure that temporarily reduces a patient's sensitivity to a specific allergen, commonly used in drug allergy to allow essential medications.
+- **Epinephrine Auto-Injector**: A pre-loaded device for self-administration of epinephrine during anaphylaxis, prescribed to patients at risk of severe allergic reactions.
+- **Food Challenge**: A controlled clinical procedure in which a patient ingests incrementally increasing doses of a suspected food allergen under medical supervision to confirm or exclude a food allergy.
+- **Histamine**: A chemical mediator released by mast cells and basophils during an allergic reaction, responsible for many allergic symptoms including itching, swelling, and vasodilation.
+- **Hypersensitivity**: An exaggerated or inappropriate immune response to an antigen, classified into four types (I through IV) by the Gell and Coombs classification system.
+- **IgE (Immunoglobulin E)**: The antibody class primarily responsible for Type I immediate hypersensitivity reactions, produced in response to allergen exposure and binding to mast cells.
+- **Immunotherapy**: A treatment approach that modifies the immune response to allergens through repeated administration of gradually increasing doses, available as subcutaneous injections (SCIT) or sublingual tablets/drops (SLIT).
+- **Mast Cell**: An immune cell found in tissues throughout the body that releases histamine and other inflammatory mediators when allergen-bound IgE on its surface is cross-linked.
+- **Oral Allergy Syndrome**: A localized allergic reaction in the mouth and throat caused by cross-reactive proteins in raw fruits, vegetables, or nuts in individuals with pollen allergy.
+- **Patch Test**: A diagnostic procedure used to identify contact allergens by applying standardized allergen preparations to the skin under occlusion for 48 hours.
+- **Sensitization**: The process by which the immune system develops IgE antibodies to a specific allergen after initial exposure, which may or may not result in clinical allergy on subsequent exposure.
+- **Skin Prick Test**: A diagnostic procedure in which small amounts of allergen extracts are introduced into the epidermis using a lancet, with a positive result indicated by a wheal-and-flare response.
+- **Specific IgE**: A blood test that measures the level of IgE antibodies directed against a particular allergen, used to identify sensitization.
+- **Urticaria**: An allergic skin condition characterized by raised, itchy wheals (hives) caused by histamine release in the superficial dermis.

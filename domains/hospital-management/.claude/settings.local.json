@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ln -sfn index.md README.md && mkdir -p topics)",
+      "Bash(cd /Users/jph/git/joelparkerhenderson/domain-driven-design/domains/hospital-management/topics && ln -sfn index.md README.md)"
+    ]
+  }
+}

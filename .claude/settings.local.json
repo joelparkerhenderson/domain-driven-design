@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bin/test-domains 2>&1 | head -80)",
+      "Bash(ls -la *.md domains/.claude/)",
+      "Bash(bin/test-domains 2>&1 | head -50)",
+      "Bash(bin/test-domains 2>&1 | grep -c \"Error:\")",
+      "Bash(bin/test-domains 2>&1 | grep \"Error:\" | sed 's|.*/domains/||' | sed 's|/.*||' | sort -u)",
+      "Bash(bin/test-domains 2>&1 | grep \"Error:\" | sed 's|.*Error: ||' | sort | uniq -c | sort -rn)",
+      "Bash(bin/test-domains 2>&1)",
+      "Bash(bin/test-domains 2>&1; echo \"Exit code: $?\")"
+    ]
+  }
+}

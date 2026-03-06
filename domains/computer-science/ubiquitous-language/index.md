@@ -1,0 +1,27 @@
+# Computer Science - Ubiquitous Language
+
+- **ACID Properties**: A set of four guarantees for database transactions -- Atomicity, Consistency, Isolation, and Durability -- that ensure reliable processing even in the presence of failures.
+- **Algorithm**: A finite, well-defined sequence of computational steps that transforms input into output, characterized by its time and space complexity.
+- **Big O Notation**: An asymptotic notation that describes the upper bound of an algorithm's growth rate, expressing how its running time or space requirements scale with input size.
+- **CAP Theorem**: A fundamental theorem stating that a distributed system can simultaneously guarantee at most two of three properties: Consistency, Availability, and Partition tolerance.
+- **Compiler**: A program that translates source code written in a high-level programming language into a lower-level language (typically machine code or bytecode) through phases of analysis and synthesis.
+- **Concurrency**: The ability of a system to execute multiple computations simultaneously, requiring careful management of shared resources to avoid race conditions and deadlocks.
+- **Data Structure**: An organized format for storing and accessing data that determines the efficiency of operations such as insertion, deletion, search, and traversal.
+- **Deadlock**: A state in which two or more processes are unable to proceed because each is waiting for a resource held by another, forming a circular dependency.
+- **Distributed System**: A collection of independent computing nodes that communicate over a network to coordinate actions and appear to users as a single coherent system.
+- **Encapsulation**: A software design principle that bundles data and the operations that act on that data within a single unit, hiding internal state and exposing only a defined interface.
+- **Graph**: A data structure consisting of vertices (nodes) and edges (connections between nodes) used to model pairwise relationships, with variants including directed, undirected, weighted, and acyclic graphs.
+- **Hash Table**: A data structure that maps keys to values using a hash function, providing average-case constant-time complexity for insertion, deletion, and lookup operations.
+- **Normalization**: The process of organizing a relational database schema to reduce data redundancy and improve data integrity by decomposing tables according to normal form rules.
+- **NP-Completeness**: A classification for decision problems that are verifiable in polynomial time but for which no known polynomial-time algorithm exists, forming a class of computationally intractable problems.
+- **Operating System**: System software that manages hardware resources, provides abstractions such as processes and file systems, and mediates between user applications and the underlying hardware.
+- **Polymorphism**: A programming language feature that allows objects of different types to be treated through a uniform interface, enabling code reuse and extensibility through subtype or parametric polymorphism.
+- **Process**: An instance of a program in execution, comprising the program code, its current activity (program counter, registers), and allocated resources (memory, file handles).
+- **Recursion**: A problem-solving technique in which a function calls itself with a smaller instance of the same problem, converging toward a base case that terminates the computation.
+- **Relational Model**: A data model based on first-order predicate logic that represents data as tuples organized into relations (tables), with operations defined by relational algebra.
+- **Sorting Algorithm**: An algorithm that arranges elements of a collection in a specified order, with common examples including merge sort, quicksort, and heapsort, each with different complexity trade-offs.
+- **TCP/IP**: The foundational protocol suite for internet communication, consisting of the Transmission Control Protocol (reliable, ordered delivery) and the Internet Protocol (addressing and routing).
+- **Thread**: A lightweight unit of execution within a process that shares the process's memory space, enabling concurrent execution of tasks within a single application.
+- **Turing Machine**: A theoretical model of computation consisting of an infinite tape, a read-write head, and a finite state machine, used to define the limits of what is computable.
+- **Type System**: A set of rules in a programming language that assigns types to expressions and enforces constraints on operations, preventing certain classes of errors at compile time or runtime.
+- **Version Control**: A system that records changes to files over time so that specific versions can be recalled, enabling collaborative development and historical tracking of a codebase.

@@ -1,0 +1,21 @@
+# Advance Statement About Care - Ubiquitous Language
+
+- **Advance Care Planning**: An ongoing process of discussion and documentation between a person, their carers, and their healthcare professionals about future care preferences and goals.
+- **Advance Statement**: A written or recorded document in which a person sets out their wishes, preferences, values, beliefs, and feelings about their future care, which is not legally binding but must be considered in best interests decisions.
+- **Advocate**: A person who speaks on behalf of someone who may not be able to represent their own views, ensuring their wishes and rights are respected.
+- **Best Interests Decision**: A decision made on behalf of a person who lacks capacity, which must take into account their past and present wishes, feelings, beliefs, and values as expressed in advance statements.
+- **Care Coordinator**: A professional responsible for ensuring that a person's care plan is implemented consistently across different care settings and providers.
+- **Care Plan**: A documented plan of action that translates a person's expressed wishes and clinical needs into specific care interventions and goals.
+- **Cultural Preference**: A person's wishes related to cultural practices, traditions, or customs that they want respected in their care.
+- **Goals of Care**: The overarching outcomes that a person hopes to achieve through their care, such as comfort, independence, or quality of life.
+- **Lasting Power of Attorney for Health and Welfare**: A legal appointment allowing a named person to make health and welfare decisions on behalf of someone who has lost capacity.
+- **Mental Capacity**: The ability to understand, retain, weigh, and communicate information relevant to a specific decision at the time it needs to be made.
+- **Person-Centered Care**: An approach to care that respects and responds to individual preferences, needs, and values, ensuring that the person's wishes guide all care decisions.
+- **Place of Care Preference**: A person's stated wish about where they would prefer to receive care, such as at home, in a hospice, or in a hospital.
+- **Preferred Priorities for Care**: A document that records a person's preferences regarding their care, treatment, and place of death, often used in end-of-life planning.
+- **ReSPECT Process**: Recommended Summary Plan for Emergency Care and Treatment, a process that creates personalized recommendations for clinical care in emergency situations.
+- **Review Trigger**: An event or change in circumstances that prompts a reassessment of the advance statement, such as a new diagnosis, hospitalization, or change in living situation.
+- **Shared Decision-Making**: A collaborative process in which clinicians and patients work together to make care decisions, informed by clinical evidence and the patient's values.
+- **Spiritual Preference**: A person's wishes related to spiritual or religious practices, rituals, or support that they want incorporated into their care.
+- **Statement of Wishes and Preferences**: An alternative term for an advance statement, emphasizing the non-binding but influential nature of the documented wishes.
+- **Wellbeing**: A holistic concept encompassing physical comfort, emotional health, social connection, and spiritual fulfillment, central to person-centered care planning.
